@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760249106",
+    "project_id": "fir-welfare",
+    "storage_bucket": "fir-welfare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760249106:android:70955ba71e89b392e111cb",
+        "android_client_info": {
+          "package_name": "com.example.firebasewelfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760249106-3tm6b5b49o6fr1k006uuqqqn27vt3set.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgZVOoIOZrLr_gfJsACDsmCPpFTQq03I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760249106-3tm6b5b49o6fr1k006uuqqqn27vt3set.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
